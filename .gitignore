@@ -1,3 +1,5 @@
 *.dat
-*.txt≈
+*.txt
 results/
+.data
+!final.data
