@@ -1,5 +1,5 @@
 *.dat
 *.txt
 results/
-.data
+*.data
 !final.data
