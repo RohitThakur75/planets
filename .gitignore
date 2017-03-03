@@ -1,4 +1,5 @@
 *.dat
+log*
 *.txt
 results/
 *.data
